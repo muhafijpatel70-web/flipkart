@@ -76,8 +76,30 @@ This project simulates real-world data analytics workflows used in e-commerce co
  Simulates real-world e-commerce analytics use cases  
  Helps understand data-driven decision-making in companies  
 
----
 
-## ▶️ How to Run the Project
 
-### Install Required Libraries
+ ▶️ How to Run the Project
+
+ Install Required Libraries
+
+
+
+ 📌 Learning Outcomes
+- Handling large data confidently  
+- Real-world data cleaning approach  
+- Clear EDA and insight extraction  
+- Basic ML understanding and implementation
+
+
+
+ ⚠️ Disclaimer
+This project is for learning and portfolio use.  
+It doesn’t use internal Flipkart data and has no affiliation with Flipkart.
+
+
+
+ 👤 Author
+Muhafij Patel  
+MCA Student | Data Analyst / Python / AI-ML Intern Aspirant  
+📧 muhafijpatel7@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/muhafiz-patel-1b7391264
